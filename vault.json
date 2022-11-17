@@ -1,0 +1,9 @@
+{
+    "robotorder": {
+        "username": "robert"
+    },
+    "robotconfig": {
+        "weburl": "https://robotsparebinindustries.com/#/robot-order",
+        "csvurl": "https://robotsparebinindustries.com/orders.csv"
+    }
+}
